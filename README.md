@@ -22,7 +22,7 @@
 - 🎓 Currently pursuing **Electronics & Telecommunication Engineering** (3rd year)
 - 🔍 Passionate about **Python**, **HTML/CSS/JS**, and full-stack web development
 - 🎯 Actively preparing for placements—improving coding, interview skills, and soft skills
-- 💡 Always building — currently working on **[Your Highlighted Project Name]** (e.g. "ML-based job matcher" or "Portfolio Website")
+- 💡 Always building — currently working on **[aiml based projects]** 
 
 ---
 
