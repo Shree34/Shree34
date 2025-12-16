@@ -13,7 +13,7 @@
 <h3 align="center">3rd Year B.Tech E&TC • Web & Python Developer • Placement-Driven</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Future+Coder+%7C+Python+%7C+Web+Dev;Building+Projects+%7C+Placement‑Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Future+Coder+%7C+Python+%7C+Web+Dev;Building+Projects+%7C" alt="Typing SVG" />
 </p>
 
 ---
