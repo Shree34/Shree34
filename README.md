@@ -20,9 +20,9 @@
 
 ### 🌱 About Me
 - 🎓 Currently pursuing **Electronics & Telecommunication Engineering** (3rd year)
-- 🔍 Passionate about **Python**, **HTML/CSS/JS**, and full-stack web development
+- 🔍 Passionate about **Python**, **HTML/CSS/JS**, and Backend development
 - 🎯 Actively preparing for placements—improving coding, interview skills, and soft skills
-- 💡 Always building — currently working on **[aiml based projects]** 
+- 💡 Always building — currently working on **[Python based projects]** 
 
 ---
 
